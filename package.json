@@ -15,7 +15,9 @@
     "protractormvn": "node protractor-wrapper",
     "webpack": "cross-env TARGET=dev webpack",
     "webpack-prod": "cross-env TARGET=prod webpack",
-    "it-start": "node protractor-wrapper http://localhost:80 2 --color=false"
+    "it-start": "node protractor-wrapper http://localhost:80 2 --color=false",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
   },
   "devDependencies": {
     "angular-mocks": "1.5.0",
@@ -111,6 +113,8 @@
     "lodash.assign": "^4.0.9",
     "lodash.throttle": "^4.0.1",
     "log4js": "~0.6.15",
-    "webpack-svgstore-plugin": "^2.1.1"
-  }
+    "webpack-svgstore-plugin": "^2.1.1",
+    "snyk": "^1.88.0"
+  },
+  "snyk": true
 }
