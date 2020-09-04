@@ -68,7 +68,7 @@
     "msm-cmp-pagination": "git+ssh://git@github.com:MSMFG/msm-cmp-pagination.git#0.8.0",
     "msm-cmp-sliding-panel": "git+ssh://git@github.com:MSMFG/msm-cmp-sliding-panel.git#0.19.0",
     "ng-redux": "^3.3.0",
-    "node-sass": "^3.3.3",
+    "node-sass": "^4.14.1",
     "phantomjs-polyfill-object-assign": "0.0.2",
     "phantomjs-prebuilt": "2.1.6",
     "postcss-loader": "^0.8.1",
