@@ -110,7 +110,7 @@
     "core-js": "^2.5.1",
     "lodash.assign": "^4.0.9",
     "lodash.throttle": "^4.0.1",
-    "log4js": "~0.6.15",
+    "log4js": "~3.0.0",
     "webpack-svgstore-plugin": "^2.1.1"
   }
 }
