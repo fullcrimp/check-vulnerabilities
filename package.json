@@ -92,7 +92,7 @@
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.12.0",
     "webpack-fail-plugin": "^1.0.4",
-    "webpack-svgstore-plugin": "^2.1.1"
+    "webpack-svgstore-plugin": "^3.0.0"
   },
   "dependencies": {
     "angular": "1.5.1",
@@ -111,6 +111,6 @@
     "lodash.assign": "^4.0.9",
     "lodash.throttle": "^4.0.1",
     "log4js": "~0.6.15",
-    "webpack-svgstore-plugin": "^2.1.1"
+    "webpack-svgstore-plugin": "^3.0.0"
   }
 }
